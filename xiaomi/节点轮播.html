@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <main class="win">
+        	<ul class="imgbox">
+        		<li><img src="img/1.png" alt=""></li>
+        		<li><img src="img/10.png" alt=""></li>
+        		<li><img src="img/11.jpg" alt=""></li>
+        		<li><img src="img/11.png" alt=""></li>
+        		<li><img src="img/12.png" alt=""></li>
+        		<li><img src="img/12.jpg" alt=""></li>
+        		<li><img src="img/13.png" alt=""></li>
+        		<li><img src="img/13.jpg" alt=""></li>
+        		<li><img src="img/15.jpg" alt=""></li>
+        		<li><img src="img/15.png" alt=""></li>
+        	</ul>
+            <div class="btn">
+               <button class="btnL">&lt;</button>
+               <button class="btnR">&gt;</button>
+            </div>
+        </main>
+    </body>
+    <style>
+        *{
+        	padding: 0;
+        	margin: 0;
+        	list-style: none;
+        }
+         main{
+         	width: 1226px;
+         	height: 340px;
+         	margin: 20px auto ;
+         	position: relative;
+            overflow: hidden;
+         }
+         .imgbox{
+            width: 2480px;
+            height: 340px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            background: red;
+         }
+         .imgbox>li{
+         	width: 234px;
+         	height: 340px;
+         	background: #fafafa;
+         	float: left;
+            margin-right: 14px;
+         }
+         .imgbox>li>img{
+         	width: 100%;
+         }
+         .btn{
+            width: 70px;
+            height: 35px;
+            position: absolute;
+            right: 10px;
+         }
+    </style>
+    <script src="js/animate.js"></script>
+    <script src="js/functions.js"></script>
+    <script>
+    	$(function(){
+            let imgbox=$('.imgbox')[0];
+            let lis=$('li',imgbox);
+            let widths=parseInt(getStyle(lis[0],'width'))+parseInt(getStyle(lis[0],'margin-left'))
+            let win=$('.win')[0];
+            let btnL=$('.btnL',win)[0];
+            let btnR=$('.btnR',win)[0];
+            let t,flag=true;
+            
+            // 点击左右
+            btnL.onclick=function(){
+                if(!flag){
+                    flag=false;
+                }
+                moveR();
+            }
+            btnR.onclick=function(){
+                if(!flag){
+                    flag=false;
+                }
+                move();
+            }
+
+            // 移入停止  移出开始
+            t=setInterval(move, 2000)
+            win.onmouseover=function(){
+                clearInterval(t)
+            }
+            win.onmouseout=function(){
+                t=setInterval(move, 2000)
+            }
+            
+
+            // 左右轮播
+            function move(){
+                animate(imgbox,{left:-widths},function(){
+                    let first=getFirst(imgbox);
+                    imgbox.appendChild(first);
+                    imgbox.style.left=0;
+                })
+            }
+            function moveR(){
+                let last=getLast(imgbox);
+                let first=getFirst(imgbox);
+                imgbox.insertBefore(last,first);
+                imgbox.style.left=-widths+'px';
+                animate(imgbox,{left:0},function(){
+                    flag=true
+                })
+            }
+        })
+    </script>
+    <!-- 
+       从右往左
+         1动画imgbox
+         2动画完成 first =>最后
+         3要将整体向右拉
+       从左往右
+         1先扒图  最后的图=>first
+         2imgbox 往左推
+         3动画 
+     -->
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+       <div class="box">
+       	   
+       </div>
+    </body>
+    <style>
+       .box{
+       	width: 300px;
+       	height: 300px;
+       	background: red;
+       	transition: all 1s;
+       }
+    </style>
+<!--     <script>
+    	let box=document.querySelector('.box');
+    	box.onclick=function(){
+    		this.style.width='200px'
+    	}
+    	/*box.addEventListener('click',function(){alert(1)},false);*/
+    	function aa(){alert(1)}
+    	function bb(){alert(2)}
+    	// 同一个事件绑定多个事件处理函数
+    	box.addEventListener('click',aa,false);
+    	box.addEventListener('click',bb,false);
+    	box.addEventListener('click',function(){alert(3)},false);
+    	// 删除事件  （不能用 delete）
+    	box.onclick=null
+    	box.removeEventListener('click',aa,false);
+    	box.removeEventListener('click',function(){alert(3)},false); //这种事件删不了
+    </script> -->
+    <script>
+        let box=document.querySelector('.box');
+    	box.addEventListener('click',function(){
+    		this.style.width='200px'
+    	},false)
+    	box.addEventListener('webkitTransitionEnd',function(){
+    		this.style.background='#000'
+    	},false)
+    </script>
+    <!-- 距浏览器左右各100px  上下各50px -->
+</html>
