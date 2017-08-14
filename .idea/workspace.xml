@@ -2,712 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79f3fde-0384-4285-bdc4-88647817e4b3" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/.idea/fanke.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/000.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/02 (1).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/0317-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/0317-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/0317-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/0317-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/111.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/1200_12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/1200_14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/123.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/1g.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/2017-03-21_164203.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/222.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/333.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/444.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/4z6jl87s.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/bo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/bo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/bo3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/cao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/dh.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/lxun_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/lxun_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/onlinecustomer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/qkmlvs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ru.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/seven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/sy (1).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/sy (2).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/sy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/w1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/w2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/we3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/we3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/xiao0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/xiao1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/xp03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/xp08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/xp_54.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/xp_68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys-mt_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys-mt_05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys-mt_07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys-mt_21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys316_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys316_05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys316_08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys316_14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys316_19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys316_21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ys_38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ysfbx_10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ysfbx_15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ysfbx_17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/ysfbx_19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/img/下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/js/animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/js/functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fanke/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/.idea/画板.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/css/iconfont.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/icon/iconfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/icon/iconfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/icon/iconfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/icon/iconfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/js/封装.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/huaban/js/画板.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/css/iconfont.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/iconfont/iconfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/iconfont/iconfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/iconfont/iconfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/iconfont/iconfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pingguo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/.idea/天猫pc端.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/css/iconfont.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/iconfont/iconfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/iconfont/iconfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/iconfont/iconfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/iconfont/iconfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/1.jpg_.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/52.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/54.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/57.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/58.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/60.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/61.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/62.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/64.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/65.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/67.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/b1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/b1.jpg_.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/b2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/b2.jpg_.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/b3.jpg_.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/b4.jpg_.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/img/z9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/js/animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/js/dollar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tianmao/js/tianmao.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wuziqi/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wuziqi/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wuziqi/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wuziqi/.idea/五子棋.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wuziqi/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/.idea/小米.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/css/iconfont.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/css/iconfont1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/css/iconfont2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/css/iconfont9.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont1.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont1.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont1.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont1.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont2.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont2.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont2.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont9.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont9.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont9.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/iconfont/iconfont9.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/0.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/000.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/002.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/009.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/01 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/011.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/012.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/013.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/02 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/04 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/05 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/06 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/07 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1  z6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1 5c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1 z2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1 z3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1 z4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1 z5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1 在.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1.2.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/104.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/1z 4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/200.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/201.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/3 .png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/33.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/42.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/42.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/43.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/43.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/44.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/44.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/45.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/45.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/51.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/51.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/51.4 .JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/51.5.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/52.2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/52.3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/52.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/52.61.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/52.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/54.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/57.1 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/57.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/58.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/59 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/60.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/61 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/61.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/61.2 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/61.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/61.4 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/61.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/62.1 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/62.2 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/62.3 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/62.4 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/62.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/64.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/65.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/66.fpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/67.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/71 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/71.1 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/71.2 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/71.3 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/71.4 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/72 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/72.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/72.2 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/72.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/72.4 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/78.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/79.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/80.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/81.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/82 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/82.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/83.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/84 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/85 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/9999.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/A1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/A2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/A3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/A4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/A5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/A6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/A7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/A8.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/B1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/B2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/B3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/B4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/B5.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/B6.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/B7.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/B8.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/C1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/C2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/C3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/C4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/C5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/C6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/C7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/C8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/D1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/D2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/D3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/D4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/D5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/D6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/D7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/D8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/E1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/E2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/E3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/E4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/E5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/G9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/H9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/banner2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/banner3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/banner4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/banner5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/banner图.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/d1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/d2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/d3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/d4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/d5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/d6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/f1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/f2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/f3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/f4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/h1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/h2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/h3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/h5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/h5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/h6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/l1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/l2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/l3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/l4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/l6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/m1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/m2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/m3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/m4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/p1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/p2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/p4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/ppl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/q9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/r9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/s1 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/s2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/s3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/s4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/t1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/t2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/t3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/t4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/t5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/t6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/w9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/x9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/z9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/下载.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/可信.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/大艺术家.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/小米官网微信.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/箭头.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/网上.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/诚信.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/img/隐私认证.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/js/animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/js/functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/js/xiaomi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/js/xiaomi1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/下雨.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/事件.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiaomi/节点轮播.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/echarts.common.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/circleChart.min.js" afterPath="$PROJECT_DIR$/js/circleChart.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -725,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1137">
-              <caret line="277" column="10" lean-forward="true" selection-start-line="277" selection-start-column="10" selection-end-line="277" selection-end-column="10" />
+            <state relative-caret-position="279">
+              <caret line="226" column="35" lean-forward="true" selection-start-line="226" selection-start-column="35" selection-end-line="226" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -738,9 +35,19 @@
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-                <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+                <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+                <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="echarts.common.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/echarts.common.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -760,8 +67,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/creative.min.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/circleChart.min.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -773,8 +80,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="47" />
+    <option name="x" value="80" />
+    <option name="y" value="96" />
     <option name="width" value="1312" />
     <option name="height" value="688" />
   </component>
@@ -805,6 +112,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geren" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geren" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -815,6 +136,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="G:/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\geren\js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -903,15 +229,15 @@
       <workItem from="1502421056486" duration="4599000" />
       <workItem from="1502453970125" duration="3161000" />
       <workItem from="1502506454288" duration="1211000" />
-      <workItem from="1502714895928" duration="505000" />
+      <workItem from="1502714895928" duration="681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25995000" />
+    <option name="totallyTimeSpent" value="26171000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="47" width="1312" height="688" extended-state="0" />
+    <frame x="80" y="96" width="1312" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18710692" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -962,8 +288,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -991,8 +317,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1020,8 +346,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1049,8 +375,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1070,8 +396,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1091,8 +417,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1112,8 +438,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1133,8 +459,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1175,8 +501,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1203,8 +529,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1224,8 +550,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1245,8 +571,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1266,8 +592,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1287,8 +613,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1308,8 +634,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1329,8 +655,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1407,10 +733,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/echarts.common.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1137">
-          <caret line="277" column="10" lean-forward="true" selection-start-line="277" selection-start-column="10" selection-end-line="277" selection-end-column="10" />
+        <state relative-caret-position="279">
+          <caret line="226" column="35" lean-forward="true" selection-start-line="226" selection-start-column="35" selection-end-line="226" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1422,8 +756,8 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502715183354" expanded="false" signature="6334:6418" ph="..." />
-            <marker date="1502715183354" expanded="false" signature="6430:6444" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6334:6418" ph="..." />
+            <marker date="1502715574333" expanded="false" signature="6430:6444" ph="..." />
           </folding>
         </state>
       </provider>
