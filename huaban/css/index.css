@@ -1,0 +1,143 @@
+*{
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+html,body{
+    width:100%;
+    height:100%;
+    background-image: url("../1.jpg");
+    background-position: center center;
+    background-size: cover;
+    overflow: hidden;
+}
+.left{
+    width:100px;
+    height:100%;
+    position: relative;
+    float: left;
+    border-right: 1px solid#fff;
+}
+.one{
+    width:100px;
+    height:auto;
+    padding:15px;
+    box-sizing: border-box;
+    float: left;
+    border-bottom: 1px solid#000;
+}
+.one>p{
+    text-align: center;
+}
+.one>li{
+    font-size: 25px;
+    margin-right: 7px;
+    margin-top: 20px;
+    float: left;
+    display: block;
+    border:1px solid#fff;
+    padding:5px;
+    box-sizing: border-box;
+}
+.two{
+    width:100px;
+    height:auto;
+    padding:15px;
+    box-sizing: border-box;
+    float: left;
+    border-bottom: 1px solid#000;
+}
+.two>p{
+    text-align: center;
+}
+.two>li{
+    /*font-size: 25px;*/
+    margin-top: 20px;
+    float: left;
+    /*margin-left: 5px;*/
+    border:1px solid#fff;
+    box-sizing: border-box;
+    padding:5px;
+    line-height: 15px;
+    text-align: center;
+}
+.three{
+    width:100px;
+    height:auto;
+    padding:15px;
+    box-sizing: border-box;
+    float: left;
+    border-bottom: 1px solid#000;
+}
+.three>p{
+    text-align: center;
+}
+.three>li{
+    font-size: 25px;
+    margin-right: 7px;
+    margin-top: 20px;
+    float: left;
+    border:1px solid#fff;
+    box-sizing: border-box;
+    line-height: 15px;
+    text-align: center;
+    padding:5px;
+}
+.top{
+    width:100%;
+    height: 10%;
+    float: left;
+    padding:16px 25px;
+    box-sizing: border-box;
+    position: absolute;
+    top:0;
+    left:100px;
+    border-bottom: 1px solid#fff;
+}
+.top>li{
+    font-size: 25px;
+    margin-right: 15px;
+    float: left;
+    border:1px solid#fff;
+    box-sizing: border-box;
+    padding:5px;
+    line-height: 15px;
+    text-align: center;
+}
+
+.box{
+    width: 1138px;
+    height: 517px;
+    position: relative;
+    top:10%;
+    left: 100px;
+}
+.zhe{
+    width: 1138px;
+    height: 517px;
+    border: 2px solid rgba(0,0,0,0.2);
+    position: relative;
+    top:0;
+    left: 0;
+    z-index: 100;
+    background: rgba(0,0,0,0.2);
+}
+.pi{
+    display: none;
+    border: 1px solid#000;
+    position: absolute;
+    top:0;
+    left:0;
+}
+.clip{
+    display: none;
+    position: absolute;
+    border: 2px dashed #1B394F;
+    /*z-index: 100;*/
+}
+canvas{
+    border:2px solid#fff;
+    position: absolute;
+    top:0;
+    left:0;
+}

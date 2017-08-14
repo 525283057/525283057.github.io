@@ -126,18 +126,21 @@ window.onload=function(){
     }
 
 }
+
+
 window.onscroll=function(){
     let flag=true,flag1=true;
-    let tops=document.body.scrollTop;
+    let tops=document.body.scrollTop;  //到页面顶端的距离
     let nav=document.getElementsByClassName('nav');
 
-
-    let ch=window.innerHeight;
+//按需加载
+    let ch=window.innerHeight;  //浏览器的高度
     let floors=document.querySelectorAll('.floor');
     let arr=[];
         floors.forEach(function(value,index){
             arr.push(value.offsetTop);
         })
+    console.log(arr)
     if(!flag){
         return;
     }
@@ -151,7 +154,7 @@ window.onscroll=function(){
         }
     }
 
-
+//侧边栏
     let ce=document.getElementsByClassName('ce')[0];
     let liz=ce.getElementsByTagName('li');
     if(tops>=550){

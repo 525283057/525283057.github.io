@@ -286,7 +286,7 @@ window.onload=function () {
             bao2[i].style.display='block';
             men2[i].style.display='none';
             tie2[i].style.display='none';
-            qii2[i].style.display='none';
+            qi2[i].style.display='none';
         }
     }
 
@@ -518,15 +518,6 @@ window.onload=function () {
             move1();
         }
 
-        // 移入停止  移出开始
-         t2=setInterval(move1, 5000)
-         win1.onmouseover=function(){
-         clearInterval(t2)
-         }
-         win1.onmouseout=function(){
-         t2=setInterval(move1, 5000)
-         }
-
         // 左右轮播
         function move1(){
             animate(imgbox,{left:-widths},function(){
@@ -545,41 +536,88 @@ window.onload=function () {
             })
         }
 //内容
-    let imgkey=$('.kuai')[0];
+    let imgkeys=$('.ni');
     let widthq=298;
     let btnl=$('.b35')[0];
     let btnr=$('.b36')[0];
-    let flag2=true;
+    let di=$('.di')[0];
+    let dili=$('li',di);
+    let current1=0,next1=0;
+
+    //放图片
+    for(let i=0;i<imgkeys.length;i++){
+        if(i==0){
+            continue
+        }
+        imgkeys[i].style.left=widthq+'px'
+    };
+    //轮播
+    function qwe() {
+        next1++
+        if(next1==imgkeys.length){
+            next1=0
+        }
+        dili[current1].className='';
+        dili[next1].className='mm';
+        imgkeys[next1].style.left=widthq+'px'
+        animate(imgkeys[current1],{left:-widthq});
+        animate(imgkeys[next1],{left:0});
+        current1=next1
+    }
+    function ewq() {
+        next1--
+        if(next1<0){
+            next1=imgkeys.length-1
+        }
+        dili[current1].className='';
+        dili[next1].className='mm';
+        imgkeys[next1].style.left=-widthq+'px';
+        animate(imgkeys[current1],{left:widthq});
+        animate(imgkeys[next1],{left:0});
+        current1=next1
+    }
 
     // 点击左右
     btnl.onclick=function(){
-        if(!flag2){
-            flag2=false;
-        }
-        moveR2();
+        ewq();
     }
     btnr.onclick=function(){
-        if(!flag2){
-            flag2=false;
-        }
-        move2();
+        qwe();
     }
 
-    // 左右轮播
-    function move2(){
-        animate(imgkey,{left:-widthq},function(){
-            let first=getFirst(imgkey);
-            imgkey.appendChild(first);
-            imgkey.style.left=0;
-        })
-    }
-    function moveR2(){
-        let last=getLast(imgkey);
-        let first=getFirst(imgkey);
-        imgkey.insertBefore(last,first);
-        imgkey.style.left=-widthq+'px';
-        animate(imgkey,{left:0},function(){
-            flag2=true
-        })
+    //点击轮播点
+    for(let i=0;i<dili.length;i++){
+        dili[i].index=i;
+        dili[i].onclick=function () {
+             dili[current1].className='';
+             this.className='mm';
+             imgkeys[this.index].style.left=widthq+'px';
+             animate(imgkeys[current1],{left:-widthq});
+             animate(imgkeys[this.index],{left:0});
+             current1=next1=this.index
+        }
     }
 };
+//按需加载
+window.onscroll=function () {
+    let flag=true;
+    let tops=document.body.scrollTop; //到页面顶端的距离
+    let ch=window.innerHeight; //浏览器的高度
+    let floors=document.querySelectorAll('.floor');
+    let arr=[];
+        floors.forEach(function(value,index){
+            arr.push(value.offsetTop);
+        });
+    if(!flag){
+        return;
+    }
+    for(let i=0;i<arr.length;i++){
+        if(tops+ch>arr[i]+400){
+            let floor=document.getElementsByClassName('floor');
+            let imgs=floor[i].getElementsByTagName('img');
+            for(let j=0;j<imgs.length;j++){
+                imgs[j].src=imgs[j].alt;
+            }
+        }
+    }
+}
