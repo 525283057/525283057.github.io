@@ -33,7 +33,7 @@
         }
     }
     </style>
-
+    <script src="js/echarts.min.js"></script>
 </head>
 
 <body id="page-top">
@@ -223,59 +223,43 @@
     <script src="js/creative.min.js"></script>
 
     <script src="js/circleChart.min.js"></script>
-    <script src="http://echarts.baidu.com/build/dist/echarts.js"></script>
+
     <script type="text/javascript">
-        // 路径配置
-        require.config({
-            paths: {
-                echarts: 'http://echarts.baidu.com/build/dist'
-            }
-        });
+        // 基于准备好的dom，初始化echarts图表
+        var myChart = echarts.init(document.getElementById('main'));
 
-        // 使用
-        require(
-            [
-                'echarts',
-                'echarts/chart/pie' // 使用柱状图就加载bar模块，按需加载
-            ],
-            function (ec) {
-                // 基于准备好的dom，初始化echarts图表
-                var myChart = ec.init(document.getElementById('main'));
-
-                option = {
-                    tooltip : {
-                        trigger: 'item',
-                        formatter: "{a} <br/>{b} : {c} ({d}%)"
-                    },
-                    calculable : true,
-                    series : [
-                        {
-                            name:'面积模式',
-                            type:'pie',
-                            radius : [30, 110],
-                            center : ['50%', 200],
-                            roseType : 'area',
-                            x: '50%',               // for funnel
-                            max: 40,                // for funnel
-                            sort : 'ascending',     // for funnel
-                            data:[
-                                {value:10, name:'node'},
-                                {value:5, name:'php,mysql'},
-                                {value:15, name:'vue'},
-                                {value:25, name:'react'},
-                                {value:20, name:'jquery'},
-                                {value:35, name:'原生js'},
-                                {value:30, name:'css'},
-                                {value:40, name:'html5'}
-                            ]
-                        }
+        option = {
+            tooltip: {
+                trigger: 'item',
+                formatter: "{a} <br/>{b} : {c} ({d}%)"
+            },
+            calculable: true,
+            series: [
+                {
+                    name: '面积模式',
+                    type: 'pie',
+                    radius: [30, 110],
+                    center: ['50%', 200],
+                    roseType: 'area',
+                    x: '50%',               // for funnel
+                    max: 40,                // for funnel
+                    sort: 'ascending',     // for funnel
+                    data: [
+                        {value: 10, name: 'node'},
+                        {value: 5, name: 'php,mysql'},
+                        {value: 15, name: 'vue'},
+                        {value: 25, name: 'react'},
+                        {value: 20, name: 'jquery'},
+                        {value: 35, name: '原生js'},
+                        {value: 30, name: 'css'},
+                        {value: 40, name: 'html5'}
                     ]
-                };
+                }
+            ]
+        };
 
-                // 为echarts对象加载数据
-                myChart.setOption(option);
-            }
-        );
+        // 为echarts对象加载数据
+        myChart.setOption(option);
     </script>
 </body>
     <!--<script>-->
